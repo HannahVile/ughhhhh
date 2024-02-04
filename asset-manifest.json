@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HannahVile/ughhhhh/static/css/main.ecbe6100.css",
+    "main.js": "/HannahVile/ughhhhh/static/js/main.bde0a56d.js",
+    "index.html": "/HannahVile/ughhhhh/index.html",
+    "main.ecbe6100.css.map": "/HannahVile/ughhhhh/static/css/main.ecbe6100.css.map",
+    "main.bde0a56d.js.map": "/HannahVile/ughhhhh/static/js/main.bde0a56d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbe6100.css",
+    "static/js/main.bde0a56d.js"
+  ]
+}
